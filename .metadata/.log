@@ -1047,3 +1047,23 @@ Il peut y avoir d'autres erreurs causées par la compatibilité avec la JVM. Vé
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.talend.platform.logging 1 0 2019-03-20 22:09:00.876
+!MESSAGE 2019-03-20 22:09:00,876 INFO  org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory  - Using NULL lifecycle mapping for MavenProject: org.talend.master.local_project:code.Master:6.2.1 @ C:\TOS_V6.2\TOS_DI-Win32-20160704_1411-V6.2.1\workspace\.Java\pom.xml.
+
+
+!ENTRY org.talend.platform.logging 1 0 2019-03-20 22:09:01.064
+!MESSAGE 2019-03-20 22:09:01,064 INFO  org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory  - Using NULL lifecycle mapping for MavenProject: org.talend.master.local_project:code.Master:6.2.1 @ C:\TOS_V6.2\TOS_DI-Win32-20160704_1411-V6.2.1\workspace\.Java\pom.xml.
+
+
+!ENTRY org.talend.platform.logging 1 0 2019-03-20 22:09:01.751
+!MESSAGE 2019-03-20 22:09:01,751 INFO  org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory  - Using NULL lifecycle mapping for MavenProject: org.talend.master.local_project:code.Master:6.2.1 @ C:\TOS_V6.2\TOS_DI-Win32-20160704_1411-V6.2.1\workspace\.Java\pom.xml.
+
+
+!ENTRY org.talend.platform.logging 1 0 2019-03-20 22:09:03.298
+!MESSAGE 2019-03-20 22:09:03,298 INFO  org.talend.designer.core.runprocess.Processor  - Command line: C:/Program Files/Java/jre1.8.0_201/bin/java.exe -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -cp C:/TOS_V6.2/TOS_DI-Win32-20160704_1411-V6.2.1/workspace/.Java/target/classes;.;C:/TOS_V6.2/TOS_DI-Win32-20160704_1411-V6.2.1/workspace/.Java/lib/dom4j-1.6.1.jar;C:/TOS_V6.2/TOS_DI-Win32-20160704_1411-V6.2.1/workspace/.Java/lib/log4j-1.2.16.jar;C:/TOS_V6.2/TOS_DI-Win32-20160704_1411-V6.2.1/workspace/.Java/lib; local_project.titi_0_1.titi --context=Default --stat_port=3347 %*
+
+
+!ENTRY org.talend.platform.logging 1 0 2019-03-20 22:09:24.693
+!MESSAGE 2019-03-20 22:09:24,693 INFO  org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory  - Using NULL lifecycle mapping for MavenProject: org.talend.master.local_project:code.Master:6.2.1 @ C:\TOS_V6.2\TOS_DI-Win32-20160704_1411-V6.2.1\workspace\.Java\pom.xml.
+
