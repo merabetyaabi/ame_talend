@@ -3,12 +3,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.example.local_project</groupId>
+    <groupId></groupId>
     <artifactId>code.Master</artifactId>
     <version>7.1.1</version>
     <relativePath>../../../</relativePath>
   </parent>
-  <groupId>org.example.local_project.job</groupId>
+  <groupId>.job</groupId>
   <artifactId>toto_ame</artifactId>
   <version>0.1.0</version>
   <name>LOCAL_PROJECT toto_ame-0.1.0 (0.1,Jobs)</name>
@@ -25,8 +25,8 @@
     <talend.project.name>LOCAL_PROJECT</talend.project.name>
     <talend.product.version>7.1.1.20181026_1147</talend.product.version>
     <talend.job.finalName>toto_ame_0_1</talend.job.finalName>
-    <talend.pigudf.groupid>org.example.local_project.pigudf</talend.pigudf.groupid>
-    <talend.routine.groupid>org.example.local_project.code</talend.routine.groupid>
+    <talend.pigudf.groupid>.pigudf</talend.pigudf.groupid>
+    <talend.routine.groupid>.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
     <talend.job.jvmargs>-Xms256M -Xmx1024M -Dfile.encoding=UTF-8 </talend.job.jvmargs>
     <talend.job.context>Default</talend.job.context>
@@ -53,7 +53,7 @@
       <version>1.2.17</version>
     </dependency>
     <dependency>
-      <groupId>org.example.local_project.code</groupId>
+      <groupId>.code</groupId>
       <artifactId>routines</artifactId>
       <version>7.1.1</version>
     </dependency>
